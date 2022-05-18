@@ -102,8 +102,4 @@ The application prints all records that are not vaccinated for the given virusNa
 The application prints instructions on how to use it.
 
 ## Bash Script
-<<<<<<< HEAD
 A script that takes as arguments a file with country names, a file with virus names, a number of lines, creates random records and puts them in a file.
-=======
-A script that takes as arguments a file with country names, a file with virus names, and creates random records and puts them in a file.
->>>>>>> 96f29696c1abf33feac7b9380db2f36261531387
